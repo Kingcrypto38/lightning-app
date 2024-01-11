@@ -16,7 +16,7 @@
     "node-libs-react-native": "^1.0.3",
     "protobufjs": "^6.8.8",
     "qr-image": "^3.2.0",
-    "react": "16.8.3",
+    "react": "18.2.0",
     "react-native": "0.59.10",
     "react-native-camera": "^2.11.2",
     "react-native-device-info": "^2.3.2",
