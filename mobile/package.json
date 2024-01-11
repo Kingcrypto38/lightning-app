@@ -18,7 +18,7 @@
     "qr-image": "^3.2.0",
     "react": "16.8.3",
     "react-native": "0.59.10",
-    "react-native-camera": "^2.11.2",
+    "react-native-camera": "^4.2.1",
     "react-native-device-info": "^2.3.2",
     "react-native-dropdownalert": "^3.10.0",
     "react-native-fs": "^2.14.1",
